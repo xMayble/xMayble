@@ -10,7 +10,8 @@
 
    * ⚡ Fun fact: I am bilingual! Bengali 🇧🇩 & English
 
-   <a href="https://www.linkedin.com/feed/"> Connect with me! </a>
+   <a href="https://user-images.githubusercontent.com/59211101/230278290-92581e71-1f93-4f9b-b639-62a18fcaaa5a.png)
+feed/">  </a>
 
 <!--
 **xMayble/xMayble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
