@@ -1,6 +1,6 @@
    ### <h1> Hey there! I'm Mehbub 👋 </h1>
    
-   <p>"Acceptance is when you choose to see experience of yours as a gift."</p>
+   <p><i>"Acceptance is when you choose to see every experience of yours as a gift."</i></p>
 
 <!--
 **xMayble/xMayble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
