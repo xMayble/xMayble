@@ -1,6 +1,11 @@
    ### <h1> Hey there! I'm Mehbub 👋 </h1>
    
-   <p><i>"Acceptance is when you choose to see every experience of yours as a gift."</i></p>
+   <p><i>"Acceptance is when you choose to see every experience of yours as a gift"</i></p>
+   
+   * 🔭 I’m currently working on a crypto-themed project
+   * 🌱 I’m currently learning Spanish!
+   * 📫 How to reach me: mehburohit@gmail.com
+   * ⚡ Fun fact: I am bilingual! Bengali 🇧🇩 & English
 
 <!--
 **xMayble/xMayble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
