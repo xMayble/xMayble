@@ -9,7 +9,8 @@
    * 📫 How to reach me: mehburohit@gmail.com
 
    * ⚡ Fun fact: I am bilingual! Bengali 🇧🇩 & English
-   <p>Connect!</p>
+   
+   <p>Let's Connect!</p>
    
    
    <a href="https://www.linkedin.com/in/mehbubrohit/">![image](https://user-images.githubusercontent.com/59211101/230278669-eccbd8ef-96ec-44e1-9bc7-7c23fbfb8d58.png)</a>
