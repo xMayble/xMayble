@@ -10,7 +10,7 @@
 
    * ⚡ Fun fact: I am bilingual! Bengali 🇧🇩 & English
 
-   * My Website: mehbubrohit.netlify.app
+   * 👤 <a href="https://mehbubrohit.netlify.app/">My Website</a>
    
    <p>Let's Connect:</p>
    
