@@ -8,7 +8,7 @@
    
    * 📫 How to reach me: mehburohit@gmail.com
 
-   * ⚡ Fun fact: I am bilingual! 🇧🇩🇺🇸
+   * ⚡ Fun fact: I am bilingual! 
 
    * 👤 My Website: https://mehbubrohit.netlify.app/
    
