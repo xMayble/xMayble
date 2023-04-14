@@ -2,7 +2,7 @@
    
    <p><i>"Acceptance is when you choose to see every experience of yours as a gift"</i></p>
    
-   * 🔭 I’m currently working on a crypto-themed project!
+   * 🔭 I’m currently working on a finance dashboard with ML Predictions!
    
    * 🌱 I’m currently learning Spanish!
    
